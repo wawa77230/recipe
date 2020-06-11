@@ -11,12 +11,17 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:'Configuration'" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:'Fixtures'" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce8ed09-874b-4da3-be85-a16fea42da61" name="Default Changelist" comment="" />
+    <list default="true" id="fce8ed09-874b-4da3-be85-a16fea42da61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/recipe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Recette.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Recette.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,14 +144,23 @@
       <path value="$PROJECT_DIR$/vendor/zendframework/zend-eventmanager" />
       <path value="$PROJECT_DIR$/vendor/zendframework/zend-code" />
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/vendor/api-platform/api-pack" />
+      <path value="$PROJECT_DIR$/vendor/willdurand/negotiation" />
     </include_path>
   </component>
   <component name="ProjectId" id="1d9RGgqvtTnynojU2v5kXCf4vBu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -163,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591835227890</updated>
       <workItem from="1591835232277" duration="25000" />
-      <workItem from="1591835260787" duration="354000" />
+      <workItem from="1591835260787" duration="1446000" />
     </task>
     <servers />
   </component>
@@ -181,7 +195,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="'Configuration'" />
+                        <option value="'Fixtures'" />
                       </list>
                     </value>
                   </entry>
@@ -192,6 +206,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591835256275">
